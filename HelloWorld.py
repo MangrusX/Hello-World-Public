@@ -1,2 +1,3 @@
 name = input("What is your name?\n")
-print("Hello", name)
+while True:
+    print("Hello", name)
